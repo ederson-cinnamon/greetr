@@ -1,0 +1,19 @@
+{
+    "name": "ederson/greetr",
+    "description": "Greetr - A simple Laravel package.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ederson",
+            "email": "66290546+ederson-cinnamon@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Cinnamon\\Greetr\\": "src/"
+        }
+    },
+    "require": {}
+}
